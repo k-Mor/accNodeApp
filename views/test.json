@@ -1,0 +1,62 @@
+{
+    "slot_jackpots": [
+        {
+            "name": "in_house",
+            "value": 1111
+        },
+        {
+            "name": "so_hot",
+            "value": 1111
+        },
+        {
+            "name": "golden_wins",
+            "value": 1111
+        },
+        {
+            "name": "fire_wolf",
+            "value": 1111
+        },
+        {
+            "name": "buffalo_extreme",
+            "value": 1111
+        }
+    ],
+    "bingo_jackpots": [
+        {
+            "name": "bonus_ball",
+            "value": 2222
+        },
+        {
+            "name": "fire_ball",
+            "value": 2222
+        },
+        {
+            "name": "4_corner",
+            "value": 2222
+        },
+        {
+            "name": "lucky_7",
+            "value": 2222
+        },
+        {
+            "name": "second_chance_fb",
+            "value": 2222
+        },
+        {
+            "name": "texas",
+            "value": 2222
+        },
+        {
+            "name": "biggie_bonanza",
+            "value": 2222
+        },
+        {
+            "name": "quick_draw",
+            "value": 2222
+        },
+        {
+            "name": "double_action",
+            "value": 2222
+        }
+    ]
+}
